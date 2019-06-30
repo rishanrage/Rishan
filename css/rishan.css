@@ -1,0 +1,121 @@
+body
+.content-wrapper{
+    min-width: 900px;
+    margin: 0px auto;
+}
+
+.header{
+    background-color: #123456;
+    width: 100%;
+    height: auto;
+    border: 1px solid blue;
+    float: left;
+}
+.logo{
+    height: auto;
+    width: 10%;
+    float: left;
+    background: url("https://i.pinimg.com/originals/27/ee/69/27ee697b560c8e21791e414d0484a116.jpg") center no-repeat;
+    background-size: cover;
+}
+
+.heading1{
+    color: white;
+    height: auto;
+    width: 70%;
+    padding: 10px;
+    float: left;
+    text-align: center;
+
+}
+.menu{
+    float: right;
+    margin-top: 70px;
+}
+.menu-item{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.menu-item:hover{
+    color: red;
+    transition: .5s all;
+    padding: 5px;
+    font-size: 120%;
+}
+
+.left-contents{
+    width: 19%;
+    height: auto;
+    border: 1px dotted green;
+    float: left;
+    
+}
+
+.main-contents{
+    width: 60%;
+    height: auto;
+    border: 1px dashed red;
+    float: left;
+}
+
+.right-contents{
+    width: 20.555%;
+    height: auto;
+    border:1px dotted green;
+    float: left;
+}
+
+.footer{
+    width: 100%;
+    height:auto;
+    border: 1px double blue;
+    float: left;
+}
+
+.heading1{
+    text-align: center;
+}
+
+.article1{
+    background: url("http://1hu9t72zwflj44abyp2h0pfe-wpengine.netdna-ssl.com/wp-content/uploads/2015/06/swayambhunathstupa1.jpg") center;
+    background-size: contain;
+    height: 25vh;
+    color: red;
+    font-weight: bold;
+    width: 100%;
+    border: 1px solid red;
+    float: left;
+
+}
+
+.article2{
+    border: 1px solid red;
+    font-style: italic;
+    float: left;
+}
+
+.image1{
+    border: 1px solid red;
+    width: 50%;
+    float: left;
+}
+
+.bold{
+    font-weight: bold;
+    color: blue;
+    font-size: 10;
+}
+
+.italic{
+    font-style: italic;
+    color: green;
+    text-decoration: underline;
+
+}
+.footer{
+    text-align: center;
+    padding: 10px;
+    color: red;
+}

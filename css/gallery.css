@@ -1,0 +1,16 @@
+.picture-container{
+	margin-left: 60px;
+	width: 100%;
+	height: auto;
+}
+.picture{
+	width: 30%;
+	margin-right: 10px;
+	height: 200px;
+	float: left;
+}
+
+img{
+	height: 100%;
+	width: 100%;
+}
